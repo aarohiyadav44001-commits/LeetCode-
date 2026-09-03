@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Ternary Search
 |  |
 | ------- |
