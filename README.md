@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -112,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
