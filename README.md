@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Ternary Search
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
