@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
