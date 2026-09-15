@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1910-remove-all-occurrences-of-a-substring) |
