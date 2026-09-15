@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
