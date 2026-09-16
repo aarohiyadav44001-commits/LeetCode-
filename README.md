@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
@@ -169,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
