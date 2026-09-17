@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
