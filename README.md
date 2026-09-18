@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
@@ -192,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
