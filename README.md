@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -213,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
