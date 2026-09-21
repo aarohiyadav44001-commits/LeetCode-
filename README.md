@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -214,5 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0338-counting-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
