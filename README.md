@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0485-max-consecutive-ones) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0567-permutation-in-string) |
@@ -244,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
