@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0191-number-of-1-bits) |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -221,4 +224,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0231-power-of-two) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
