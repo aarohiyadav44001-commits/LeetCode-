@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
