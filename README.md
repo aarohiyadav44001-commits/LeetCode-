@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0229-majority-element-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0567-permutation-in-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/aarohiyadav44001-commits/LeetCode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
